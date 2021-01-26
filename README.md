@@ -48,5 +48,5 @@ https://zee5api.tk/?q=https://www.zee5.com/zee5originals/details/watch-auto-shan
 4) Press control + N and then paste the link
 5) Press Ok and enjoy your video.<br><br>
 =======
-### Special Thanks to Manoj
+#Fsociety
 =======
